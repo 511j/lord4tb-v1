@@ -1,0 +1,12 @@
+requests
+colorama
+instaloader
+ctypes
+httpx
+asyncio
+logging
+pyshorteners
+datetime
+discord_webhook
+tasksio
+bs4
